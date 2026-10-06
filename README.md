@@ -4,7 +4,7 @@
 инженерными методами
 
 
-**[Открыть общий ролик MP4](Walnut1_overview.mp4).**
+https://github.com/user-attachments/assets/1ff84350-0d60-4fd1-9ad6-793bdfbf59cd
 
 ## DATA
 
